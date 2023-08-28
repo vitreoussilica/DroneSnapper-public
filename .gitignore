@@ -22,3 +22,7 @@ docs/site/
 # committed for packages, but should be committed for applications that require a static
 # environment.
 Manifest.toml
+julia_v1/simulator/Autopilot.jl
+julia_v1/simulator/jacobian_forces_2.jl
+julia_v1/simulator/trim_calculator.jl
+julia_v1/simulator/trim_calculator_2dof.jl
