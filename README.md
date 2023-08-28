@@ -12,3 +12,4 @@ This folder contains the first version of the flight simulator. Particular files
 5. forcesCalculator --- provides functions calculating forces and moments acting on the airplane mid-flight
 6. mathhelpers --- provides 4th order Runge-Kutta integration function
 7. utils_print --- plotting and command line printing functions
+8. *Autopilot --- currently not available as contained proprietary information, release planned
